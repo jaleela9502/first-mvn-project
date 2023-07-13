@@ -11,7 +11,7 @@ public class AppointmentBooking {
 	
 	
 	
-	public String getGroundName() {
+	public String getPatientName() {
 		return PatientName;
 	}
 	public void setPatientName(String PatientName) {
